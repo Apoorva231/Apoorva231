@@ -27,8 +27,8 @@
 ## `> whoami`
 
 ```text
-Computer Science student @ Concordia University
-Former Full-Stack Developer Intern @ Airbus Canada
+Honors Computer Science and Math student @ Concordia University
+Former Software Developer Intern @ Airbus Canada
 Interested in backend engineering, systems, databases and applied AI
 Currently building, learning, and going deeper into CS fundamentals
 ```
@@ -45,7 +45,7 @@ Previously, I worked at **Airbus Canada**, developing internal applications and 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📋 ApplyFlow</h3>
+<h3 align="center">📋 Smart Internship Tracker</h3>
 
 <p align="center">
 A platform for discovering, organizing, and managing internship applications.
@@ -53,9 +53,9 @@ A platform for discovering, organizing, and managing internship applications.
 
 <p align="center">
 <code>React</code>
-<code>Node.js</code>
+<code>Springboot</code>
 <code>PostgreSQL</code>
-<code>Prisma</code>
+<code>JPA</code>
 </p>
 
 </td>

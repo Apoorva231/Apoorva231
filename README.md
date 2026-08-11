@@ -120,24 +120,6 @@ Working through **NeetCode 150** in C++ while strengthening my intuition for alg
 
 </div>
 
----
-
-## `> cat experience.log`
-
-### ✈️ Airbus Canada
-
-**Full-Stack Developer Intern**
-
-Worked on digitalization and industrial-performance tooling supporting aircraft manufacturing operations.
-
-* Built and improved an internal **Quality Gate KPI application**
-* Developed data pipelines with **PySpark and SQL**
-* Built application functionality with **JavaScript, HTML, and CSS**
-* Worked with large production datasets and existing enterprise systems
-* Contributed to tooling used across manufacturing teams
-
----
-
 ## `> ./exploring`
 
 <div align="center">

@@ -30,8 +30,7 @@ I previously worked as a **Full-Stack Developer Intern at Airbus Canada**, build
 
 These days, I'm especially interested in:
 
-> ⚙️ Backend Engineering   •   🗄️ Databases   •   🌐 Networking
-> 🧵 Concurrency   •   🏗️ Distributed Systems   •   🤖 Applied AI
+> ⚙️ Backend Engineering   •   🗄️ Databases   •   🌐 Networking  •  🧵 Concurrency   •   🏗️ Distributed Systems   •   🤖 Applied AI
 
 I also spend a lot of time solving algorithmic problems and strengthening my fundamentals in computer science.
 
@@ -128,18 +127,6 @@ Worked on digitalization tools supporting aircraft manufacturing operations.
 <img src="https://img.shields.io/badge/Concurrency-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Design-4F46E5?style=for-the-badge" />
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apoorva231&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva231&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 

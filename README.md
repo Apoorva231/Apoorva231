@@ -1,132 +1,171 @@
+<!-- Animated Header -->
+
 <div align="center">
 
-# 👋 Hey, I'm Apoorva
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=220&section=header&text=Apoorva%20Bhardwaj&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20Concordia%20University&descAlignY=58&descSize=18" />
 
-### Computer Science @ Concordia University
-
-**Software Engineering • Backend • Systems • Applied AI**
+<a href="https://github.com/Apoorva231">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+%E2%80%A2+Backend+%E2%80%A2+Systems;Databases+%E2%80%A2+Networking+%E2%80%A2+Concurrency;Building+things+and+understanding+them+one+layer+deeper" alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://img.shields.io/badge/📍_Montréal,_Canada-7C3AED?style=for-the-badge" />
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://github.com/Apoorva231">
-  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
+
+## `> whoami`
+
+```text
+Computer Science student @ Concordia University
+Former Full-Stack Developer Intern @ Airbus Canada
+Interested in backend engineering, systems, databases and applied AI
+Currently building, learning, and going deeper into CS fundamentals
+```
+
+I enjoy building software, but I'm equally interested in understanding what happens **below the abstractions** — how databases store data, how operating systems manage processes, how networks move information, and how concurrent systems coordinate work.
+
+Previously, I worked at **Airbus Canada**, developing internal applications and data pipelines supporting aircraft manufacturing operations.
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a Computer Science student at **Concordia University** who enjoys building software and understanding what happens underneath the abstractions.
-
-I previously worked as a **Full-Stack Developer Intern at Airbus Canada**, building internal applications and data pipelines supporting aircraft manufacturing operations.
-
-These days, I'm especially interested in:
-
-> ⚙️ Backend Engineering   •   🗄️ Databases   •   🌐 Networking  •  🧵 Concurrency   •   🏗️ Distributed Systems   •   🤖 Applied AI
-
-I also spend a lot of time solving algorithmic problems and strengthening my fundamentals in computer science.
-
----
-
-## 🚀 Currently Building
+## `> ls ./currently-building`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 ApplyFlow
+<h3 align="center">📋 ApplyFlow</h3>
 
-A full-stack platform for discovering, organizing, and tracking internship applications.
+<p align="center">
+A platform for discovering, organizing, and managing internship applications.
+</p>
 
-**Building with**
-
-`React` `Node.js` `PostgreSQL` `Prisma`
+<p align="center">
+<code>React</code>
+<code>Node.js</code>
+<code>PostgreSQL</code>
+<code>Prisma</code>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎮 Backlogged
+<h3 align="center">🎮 Backlogged</h3>
 
-A personal game backlog application I'm building while learning the **C# / .NET ecosystem**.
+<p align="center">
+A game backlog platform I'm building while exploring the C# and .NET ecosystem.
+</p>
 
-**Building with**
-
-`C#` `.NET` `ASP.NET Core`
+<p align="center">
+<code>C#</code>
+<code>.NET</code>
+<code>ASP.NET Core</code>
+</p>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
 ### 🧠 DSA & Problem Solving
 
-Working through **NeetCode 150** in C++ and building stronger intuition for data structures, algorithms, and problem solving.
+Working through **NeetCode 150** in C++ while strengthening my intuition for algorithms and data structures.
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat tech-stack.txt`
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,java,js" />
-
-<br>
-
-`SQL`
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js&theme=dark" />
 
 <br><br>
 
-### Web & Backend
+`SQL`   •   `HTML`   •   `CSS`
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,postgres" />
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mysql,prisma&theme=dark" />
 
 <br><br>
 
-### Tools & Platforms
+`REST APIs`   •   `PySpark`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## ✈️ Experience
+## `> cat experience.log`
 
-### Airbus Canada
+### ✈️ Airbus Canada
 
 **Full-Stack Developer Intern**
 
-Worked on digitalization tools supporting aircraft manufacturing operations.
+Worked on digitalization and industrial-performance tooling supporting aircraft manufacturing operations.
 
 * Built and improved an internal **Quality Gate KPI application**
-* Developed data pipelines using **PySpark and SQL**
-* Built application features using **JavaScript, HTML, and CSS**
-* Worked with production datasets and enterprise-scale internal systems
-* Contributed to tools used across manufacturing teams
+* Developed data pipelines with **PySpark and SQL**
+* Built application functionality with **JavaScript, HTML, and CSS**
+* Worked with large production datasets and existing enterprise systems
+* Contributed to tooling used across manufacturing teams
 
 ---
 
-## 🔭 What I'm Learning
+## `> ./exploring`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Networks-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databases-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Distributed_Systems-4338CA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Networks-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-0284C7?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Concurrency-8B5CF6?style=for-the-badge" />
+<br>
+
+<img src="https://img.shields.io/badge/Concurrency-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-0891B2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System_Design-4F46E5?style=for-the-badge" />
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva231&theme=tokyonight&animation=sequence&duration=3" />
+
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
 
 </div>
 
@@ -134,6 +173,10 @@ Worked on digitalization tools supporting aircraft manufacturing operations.
 
 <div align="center">
 
-### 💡 Building things, breaking things, and figuring out why they broke.
+### `while (curious) { build(); learn(); }`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=100&section=footer" />
 
 </div>

@@ -153,30 +153,3 @@ Worked on digitalization and industrial-performance tooling supporting aircraft 
 <img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge" />
 
 </div>
-
----
-
-## `> github --stats`
-
-<div align="center">
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva231&theme=tokyonight&animation=sequence&duration=3" />
-
-<br>
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
-
-</div>
-
----
-
-<div align="center">
-
-### `while (curious) { build(); learn(); }`
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=100&section=footer" />
-
-</div>

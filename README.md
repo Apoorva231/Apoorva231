@@ -1,114 +1,171 @@
+<!-- Animated Header -->
+
 <div align="center">
 
-# Hey, I'm Apoorva 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=220&section=header&text=Apoorva%20Bhardwaj&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20Concordia%20University&descAlignY=58&descSize=18" />
 
-### I like building software, exploring systems, and figuring out how things work.
+<a href="https://github.com/Apoorva231">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+%E2%80%A2+Backend+%E2%80%A2+Systems;Databases+%E2%80%A2+Networking+%E2%80%A2+Concurrency;Building+things+and+understanding+them+one+layer+deeper" alt="Typing SVG" />
+</a>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Concordia-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software-Engineering-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Currently-Montréal-06B6D4?style=for-the-badge" />
+<br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+projects+I+actually+want+to+use;Exploring+backend%2C+systems+and+AI;Probably+learning+something+new+right+now" />
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🌱 A little about me
+## `> whoami`
 
-I'm a Computer Science student at **Concordia University**.
+```text
+Computer Science student @ Concordia University
+Former Full-Stack Developer Intern @ Airbus Canada
+Interested in backend engineering, systems, databases and applied AI
+Currently building, learning, and going deeper into CS fundamentals
+```
 
-I previously worked at **Airbus Canada** as a Full-Stack Developer Intern, where I built internal applications and data pipelines supporting aircraft manufacturing.
+I enjoy building software, but I'm equally interested in understanding what happens **below the abstractions** — how databases store data, how operating systems manage processes, how networks move information, and how concurrent systems coordinate work.
 
-I like projects where I can both **build something useful** and learn more about what's happening underneath.
+Previously, I worked at **Airbus Canada**, developing internal applications and data pipelines supporting aircraft manufacturing operations.
 
 ---
 
-## 🧩 Things I'm building
+## `> ls ./currently-building`
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+<h3 align="center">📋 ApplyFlow</h3>
 
-### 📋 ApplyFlow
+<p align="center">
+A platform for discovering, organizing, and managing internship applications.
+</p>
 
-Track, organize and manage internship applications.
-
-**Stack**
-
-`React`
-`Node.js`
-`PostgreSQL`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎮 Backlogged
-
-Keep track of games I want to play.
-
-**Stack**
-
-`C#`
-`.NET`
-`ASP.NET Core`
+<p align="center">
+<code>React</code>
+<code>Node.js</code>
+<code>PostgreSQL</code>
+<code>Prisma</code>
+</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 DSA
+<h3 align="center">🎮 Backlogged</h3>
 
-Strengthening CS fundamentals through problem solving.
+<p align="center">
+A game backlog platform I'm building while exploring the C# and .NET ecosystem.
+</p>
 
-**Using**
-
-`C++`
-`NeetCode 150`
+<p align="center">
+<code>C#</code>
+<code>.NET</code>
+<code>ASP.NET Core</code>
+</p>
 
 </td>
-
 </tr>
 </table>
 
----
-
-## 🛠️ Toolbox
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,react,nodejs,dotnet,postgres,prisma,docker,git&perline=6" />
+### 🧠 DSA & Problem Solving
+
+Working through **NeetCode 150** in C++ while strengthening my intuition for algorithms and data structures.
 
 </div>
 
 ---
 
-## 🔍 Things I find interesting
+## `> cat tech-stack.txt`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Databases-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Networking-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Concurrency-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/Distributed_Systems-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Applied_AI-06B6D4?style=flat-square" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js&theme=dark" />
+
+<br><br>
+
+`SQL`   •   `HTML`   •   `CSS`
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mysql,prisma&theme=dark" />
+
+<br><br>
+
+`REST APIs`   •   `PySpark`
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 A bit of GitHub
+## `> cat experience.log`
+
+### ✈️ Airbus Canada
+
+**Full-Stack Developer Intern**
+
+Worked on digitalization and industrial-performance tooling supporting aircraft manufacturing operations.
+
+* Built and improved an internal **Quality Gate KPI application**
+* Developed data pipelines with **PySpark and SQL**
+* Built application functionality with **JavaScript, HTML, and CSS**
+* Worked with large production datasets and existing enterprise systems
+* Contributed to tooling used across manufacturing teams
+
+---
+
+## `> ./exploring`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Apoorva231&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/Distributed_Systems-4338CA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Networks-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-0284C7?style=for-the-badge" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva231&layout=compact&hide_border=true&theme=transparent" />
+<br>
+
+<img src="https://img.shields.io/badge/Concurrency-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Design-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge" />
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva231&theme=tokyonight&animation=sequence&duration=3" />
+
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorva231&theme=tokyonight&animation=load&duration=2" />
 
 </div>
 
@@ -116,6 +173,10 @@ Strengthening CS fundamentals through problem solving.
 
 <div align="center">
 
-### Build → break → understand → rebuild.
+### `while (curious) { build(); learn(); }`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=100&section=footer" />
 
 </div>
